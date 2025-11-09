@@ -1,7 +1,7 @@
 import './App.css';
-import KeralaCountdown from './keralaCountdown';
 
 import { BrowserRouter, Route, Router, Routes } from 'react-router-dom';
+import KeralaCountdown from './Component/KeralaCountdown';
 
 function App() {
   return (
